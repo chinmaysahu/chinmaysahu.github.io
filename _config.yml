@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chinmay Sahu, Clarkson University"
+title                    : "Chinmay Sahu"
 title_separator          : "-"
 name                     : &name "Chinmay Sahu"
 description              : &description "PhD Candidate, CoSiNe Lab, Clarkson University"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Chinmay Sahu"
   avatar           : "chinmaysahu_photo.PNG"
-  bio              : "Doctoral Candidate @ CoSiNe Lab, Clarkson University"
+  bio              : "Electrical & Computer Engineering PhD Student, CoSiNe Lab, Clarkson University"
   location         : "Potsdam, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=cIViJoUAAAAJ&hl=en"
