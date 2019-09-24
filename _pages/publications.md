@@ -13,6 +13,6 @@ Divyesh, V. R., **Chinmay Sahu**, Velswamy Kirubakaran, T. K. Radhakrishnan, and
 
 **Sahu, Chinmay**, V. Kirubakaran, T. K. Radhakrishnan, and N. Sivakumaran. “Explicit model predictive control of split-type air conditioning system.” Transactions of the Institute of Measurement and Control 39, no. 5 (2017): 754-762. [[pdf]](https://doi.org/10.1177%2F0142331215619976)
 
-Kirubakaran, V.,**Chinmay Sahu**, T. K. Radhakrishnan, and N. Sivakumaran. “Energy efficient model based algorithm for control of building HVAC systems.” Ecotoxicology and environmental safety 121 (2015): 236-243. . [[pdf]](https://doi.org/10.1016/j.ecoenv.2015.03.027)
+Kirubakaran, V., **Chinmay Sahu**, T. K. Radhakrishnan, and N. Sivakumaran. “Energy efficient model based algorithm for control of building HVAC systems.” Ecotoxicology and environmental safety 121 (2015): 236-243. . [[pdf]](https://doi.org/10.1016/j.ecoenv.2015.03.027)
 
 
