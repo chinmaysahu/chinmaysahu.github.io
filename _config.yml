@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emily S. Finn, PhD"
+title                    : "Chinmay Sahu, PhD Candidate"
 title_separator          : "-"
-name                     : &name "Emily S. Finn, PhD"
-description              : &description "Postdoc at NIMH."
-url                      : https://esfinn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chinmay Sahu, PhD Candidate"
+description              : &description "PhD Candidate @ CoSiNe Lab."
+url                      : https://chinmaysahu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "esfinn.github.io"
+repository               : "chinmaysahu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emily S. Finn, PhD"
-  avatar           : "esf_photo.jpg"
-  bio              : "Postdoc at NIMH"
-  location         : "Bethesda, MD"
+  name             : "Chinmay Sahu, PhD Candidate"
+  avatar           : "chinmaysahu_photo.jpg"
+  bio              : "Doctoral Candidate at CoSiNe Lab"
+  location         : "Potsdam, NY"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=95oJGacAAAAJ&hl=en"
-  email            : "emily.finn@nih.gov"
+  googlescholar    : "https://scholar.google.com/citations?user=cIViJoUAAAAJ&hl=en"
+  email            : "sahuc.clarkson@edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,26 +93,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "esfinn"
+  github           : "chinmaysahu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8591-3068"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://www.linkedin.com/in/chinmaysahu/"
   steam            :
   tumblr           :
-  twitter          : "@esfinn"
+  twitter          : "@chinmaysahu"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  publons          : "https://publons.com/author/1268419/emily-s-finn#"
-
+  publons          : 
 
 # Reading Files
 include:
