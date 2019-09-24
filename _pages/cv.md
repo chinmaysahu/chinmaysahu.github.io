@@ -8,4 +8,4 @@ redirect_from:
   - /resume
 ---
 
-[[Click here]](/files/FinnCV.pdf) for a recent CV.
+[[Click here]](/files/ChinmaySahuCV.pdf) for a recent CV.
