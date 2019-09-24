@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chinmay Sahu, PhD Candidate"
+title                    : "Chinmay Sahu, Clarkson University"
 title_separator          : "-"
-name                     : &name "Chinmay Sahu, PhD Candidate"
-description              : &description "PhD Candidate @ CoSiNe Lab."
+name                     : &name "Chinmay Sahu"
+description              : &description "PhD Candidate, CoSiNe Lab, Clarkson University"
 url                      : https://chinmaysahu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chinmaysahu.github.io"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chinmay Sahu, PhD Candidate"
+  name             : "Chinmay Sahu"
   avatar           : "chinmaysahu_photo.PNG"
-  bio              : "Doctoral Candidate at CoSiNe Lab"
+  bio              : "Doctoral Candidate @ CoSiNe Lab, Clarkson University"
   location         : "Potsdam, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=cIViJoUAAAAJ&hl=en"
@@ -98,11 +98,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chinmaysahu/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://www.linkedin.com/in/chinmaysahu/"
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "@chinmaysahu"
