@@ -342,6 +342,11 @@ body {
     font-weight: 800;
     color: var(--primary-color);
     margin-bottom: var(--spacing-xs);
+   /* FIX: prevent font/features from dropping the 'M' glyph */
+    font-variant-numeric: normal;
+    font-feature-settings: normal;
+    letter-spacing: 0;
+    white-space: nowrap;
 }
 
 .impact-label {
