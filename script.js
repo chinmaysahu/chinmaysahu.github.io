@@ -157,28 +157,24 @@ function animateCounter(element) {
             clearInterval(timer);
         }
         
-        let displayValue = Math.floor(current);
-        if (numericValue < 10 && numericValue % 1 !== 0) {
-            displayValue = current.toFixed(1);
-        }
-        // NEW - Add this right after:
-        if (isPlus && target.includes('M')) {
-            element.textContent = `${displayValue}M+`;
-        } else if (target.includes('M')) {
-            element.textContent = `${displayValue}M`;
-        } else if (isPlus) {
-            element.textContent = `${displayValue}+`;
-        }
-        
-        if (isHash) {
-            element.textContent = `#${displayValue}`;
-        } else if (isPlus) {
-            element.textContent = `${displayValue}+`;
-        } else if (isPercentage) {
-            element.textContent = `${displayValue}%`;
-        } else {
-            element.textContent = displayValue;
-        }
+    let displayValue = Math.floor(current);
+    if (numericValue < 10 && numericValue % 1 !== 0) {
+        displayValue = current.toFixed(1);
+    }
+    
+    // Preserve suffixes exactly from the original target text
+    if (isHash) {
+        element.textContent = `#${displayValue}`;
+    } else if (target.includes('M')) {
+        element.textContent = isPlus ? `${displayValue}M+` : `${displayValue}M`;
+    } else if (isPlus) {
+        element.textContent = `${displayValue}+`;
+    } else if (isPercentage) {
+        element.textContent = `${displayValue}%`;
+    } else {
+        element.textContent = `${displayValue}`;
+    }
+
     }, duration / steps);
 }
 
