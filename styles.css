@@ -333,22 +333,20 @@ body {
 }
 
 .impact-icon {
-    font-size: 3rem;
-    margin-bottom: var(--spacing-sm);
+  font-family: "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif;
 }
 
+
 .impact-number {
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: var(--primary-color);
-    margin-bottom: var(--spacing-xs);
-   /* FIX: prevent font/features from dropping the 'M' glyph */
-    font-variant-numeric: normal;
-    font-feature-settings: normal;
-    letter-spacing: 0;
-    white-space: nowrap;
-   font-family: inherit;
+  font-family: var(--font-sans) !important;   /* force normal text font */
+  font-weight: 800;
+  font-variant-numeric: normal;
+  font-feature-settings: normal;
+  letter-spacing: 0;
+  white-space: nowrap;
+  unicode-bidi: plaintext;                   /* avoid weird glyph substitution */
 }
+
 
 .impact-label {
     font-size: 1rem;
