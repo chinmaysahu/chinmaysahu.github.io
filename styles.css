@@ -347,6 +347,7 @@ body {
     font-feature-settings: normal;
     letter-spacing: 0;
     white-space: nowrap;
+   font-family: inherit;
 }
 
 .impact-label {
